@@ -3,7 +3,8 @@ package net.ed;
 public class ReverseSentence {
 	
 	public static void main(String[] args) {
-		
+
+		// output: dlroW ereht olleH
 		String sentence = "Hello there World";
 		
 		char letters[] = sentence.toCharArray();
